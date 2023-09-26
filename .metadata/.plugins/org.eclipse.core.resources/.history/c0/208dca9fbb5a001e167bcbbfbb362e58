@@ -1,0 +1,5 @@
+package com.springapp.html.model;
+
+public class User {
+
+}

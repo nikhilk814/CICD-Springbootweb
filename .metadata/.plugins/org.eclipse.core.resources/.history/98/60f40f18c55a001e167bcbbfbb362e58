@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns :th="https://www.thymLeaf.org">
+<head>
+    <title> Notorious </title>
+    </head>
+    <body>
+		<h1>
+			Welcome to The Notorious World
+		</h1>
+		
+	</body>
+</html>

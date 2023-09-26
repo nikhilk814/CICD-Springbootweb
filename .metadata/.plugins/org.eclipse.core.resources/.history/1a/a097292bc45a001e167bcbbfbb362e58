@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymLeaf.org">
+<head>
+    <title> Notorious </title>
+    </head>
+    <body>
+		<h1>
+			Welcome to The Notorious World
+		</h1>
+		
+		<h2> th:text="${Username}">Username </h2>
+	</body>
+</html>
